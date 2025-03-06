@@ -1,0 +1,2 @@
+# Pain-Recognition-With-Physiological-Signals-Using-Multi-Level-Context-Information
+Pain is the body’s common response to illness that requires medical attention. Traditional pain recognition methods are generally through human observations and subjective recognition. The physiotherapists assess a patient’s pain through exercises during the therapy process and give reasonable exercises to the patient to overcome the disease. 
